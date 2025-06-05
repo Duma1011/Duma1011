@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Phumezile Tsitsa
 ========================================================================================================================================
 
-I am an Associate AI Engeneer
+I am an M365 Developer
 -------------------------------
 
-I am an entry-level AI Engineer with a Bachelor of Science in Mathematics and Computer Science from the University of Cape Town. My degree has equipped me with strong analytical, problem-solving skills which are transferrable to any challenge I encounter. I have excellent understanding and proficiency of platforms for effective data analysis, machine learning, AI and cloud computing, including SQL, Tableau, PowerBI,Microsoft Azure and Python.
+I am an entry-level Developer with a Bachelor of Science in Mathematics and Computer Science from the University of Cape Town. My degree has equipped me with strong analytical, problem-solving skills which are transferrable to any challenge I encounter. I have excellent understanding and proficiency of platforms for effective data analysis, machine learning, AI and cloud computing, including SQL, Tableau, PowerBI,Microsoft Azure and Python.
 
 * 🌍  I'm based in Cape Town, South Africa
 * ✉️  You can contact me at [tsitsap11@gmail.com](mailto:tsitsap11@gmail.com)
